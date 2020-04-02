@@ -1,0 +1,8 @@
+node_modules
+build
+npm-debug.log
+.env
+.DS_Store
+addons
+p5.js
+p5.min.js
